@@ -2,7 +2,7 @@
   "name": "react-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Untoc-Web-Develop.github.io/todo-list",
+  "homepage": "https://jimini1026.github.io/todo-list",
   "dependencies": {
     "gh-pages": "^6.0.0",
     "react": "^18.2.0",
