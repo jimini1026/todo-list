@@ -17,7 +17,8 @@ function App() {
     e.preventDefault();
     if (toDo === '') {
       return;
-    } else dispatch(addToDo(toDo));
+    }
+    dispatch(addToDo(toDo));
     setToDo('');
   };
 
