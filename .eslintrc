@@ -18,10 +18,13 @@
   },
   "plugins": ["react"],
   "rules": {
-    "prettier/prettier": {
-      "errors": {
-        "endOfLine": "auto"
+    "prettier/prettier": [
+      2,
+      {
+        "errors": {
+          "endOfLine": "auto"
+        }
       }
-    }
+    ]
   }
 }
